@@ -1,0 +1,4 @@
+name: gnn
+channels:
+  - defaults
+prefix: C:\Users\Mukand\anaconda2023\envs\gnn
