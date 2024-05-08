@@ -31,7 +31,7 @@ The goal of the recommendation system is to provide personalized book recommenda
 
     ```
     content-filtering.ipynb
-    Collaborative Filterin.ipynb
+    Collaborative Filtering.ipynb
     NCF.ipynb
     ```
 
@@ -46,8 +46,9 @@ The goal of the recommendation system is to provide personalized book recommenda
 - **NCF**: Recommend books for user ID 5678 using neural collaborative filtering.
 
 ## Contributors
-- [Your Name](https://github.com/mukandkrishna)
-- [Co-contributor Name (if any)](https://github.com/cocontributorusername)
+- [Mukand Krishna](https://github.com/MukandKrishna)
+- [Faris Asif](https://github.com/name)
+- [Insia Farhan](https://github.com/name)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
