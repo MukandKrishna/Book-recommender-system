@@ -46,7 +46,7 @@ The goal of the recommendation system is to provide personalized book recommenda
 
 ## Contributors
 - [Mukand Krishna](https://github.com/MukandKrishna)
-- [Faris Asif](https://github.com/name)
+- [Faris Asif](https://github.com/farisasif7)
 - [Insia Farhan](https://github.com/name)
 
 ## License
