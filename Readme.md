@@ -1,4 +1,3 @@
-Sure, here's a template for a README file tailored to your book recommendation system project:
 # Book Recommendation System
 
 ## Overview
