@@ -1,7 +1,7 @@
 # Book Recommendation System
 
 ## Overview
-This project implements a book recommendation system using various techniques such as content filtering, collaborative filtering, and neural collaborative filtering (NCF). 
+This project implements a book recommendation system using various techniques such as content filtering, collaborative filtering, Graph Neural Networks, and neural collaborative filtering (NCF). 
 The goal of the recommendation system is to provide personalized book recommendations to users based on their preferences and interactions with books.
 
 ## Features
@@ -49,6 +49,7 @@ It then is represented as a bipartite graph, where nodes represent users and ite
 - **Content Filtering**: Recommend books similar to "The Catcher in the Rye".
 - **Collaborative Filtering**: Recommend books for user ID 1234.
 - **NCF**: Recommend using neural collaborative filtering books for user ID 5678.
+- **GNN**: Recommend ISBNs using neural collaborative filtering books for user ID 10.
 
 ## Contributors
 - [Mukand Krishna](https://github.com/MukandKrishna)
