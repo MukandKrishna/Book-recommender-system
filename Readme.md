@@ -52,9 +52,4 @@ It then is represented as a bipartite graph, where nodes represent users and ite
 - **GNN**: Recommend ISBNs using neural collaborative filtering books for user ID 10.
 
 ## Contributors
-- [Mukand Krishna](https://github.com/MukandKrishna)
-- [Faris Asif](https://github.com/farisasif7)
-- [Insia Farhan](https://github.com/K200265-Insia-Farhan)
-
-## License
-This project is licensed under the [MIT License](LICENSE).
+- [Mukand Krishna](https://github.com/MukandKrishna) - [Faris Asif](https://github.com/farisasif7) - [Insia Farhan](https://github.com/K200265-Insia-Farhan)
