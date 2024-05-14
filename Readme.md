@@ -11,8 +11,6 @@ The goal of the recommendation system is to provide personalized book recommenda
 - **Graph Neural Network**: It runs on collaborative filtering data, leveraging user-item interactions to make recommendations. These interactions can be explicit, such as ratings or reviews, etc.
     It then is represented as a bipartite graph, where nodes represent users and items, and edges represent interactions between them. GNNs learn to propagate information through this graph structure to capture       user-item relationships and make personalized recommendations.
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FA-typical-and-basic-architecture-and-processing-procedures-of-GNN-First-GNN-selects_fig2_352526255&psig=AOvVaw0Jljc0srvrhJwYWyVZwdj3&ust=1715735477681000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOD1rvD6i4YDFQAAAAAdAAAAABAE
-
 ## Technologies Used
 - Python
 - Pandas
