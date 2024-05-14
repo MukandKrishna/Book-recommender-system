@@ -17,7 +17,7 @@ Here is an image showing the books and users relationship:
 
 ![Books-users](https://github.com/MukandKrishna/Book-recommender-system/raw/main/images/Books-users.png)
 
-Image showing the GNN Framework:
+### Image showing the GNN Framework:
 
 ![GNN-Framework](https://github.com/MukandKrishna/Book-recommender-system/raw/main/images/GNN-Framework.png)
 
