@@ -9,7 +9,13 @@ The goal of the recommendation system is to provide personalized book recommenda
 - **Collaborative Filtering**: Recommends books by identifying patterns among users and items, leveraging user-item interaction data.
 - **Neural Collaborative Filtering (NCF)**: Utilizes neural networks to learn user-item interactions directly from data, capturing complex patterns and relationships.
 - **Graph Neural Network**: It runs on collaborative filtering data, leveraging user-item interactions to make recommendations. These interactions can be explicit, such as ratings or reviews, etc.
-    It then is represented as a bipartite graph, where nodes represent users and items, and edges represent interactions between them. GNNs learn to propagate information through this graph structure to capture       user-item relationships and make personalized recommendations.
+It then is represented as a bipartite graph, where nodes represent users and items, and edges represent interactions between them. GNNs learn to propagate information through this graph structure to capture user-item relationships and make personalized recommendations.
+
+### Image Representation
+
+Here is an image showing the books and users relationship:
+
+![Books-users](https://github.com/MukandKrishna/Book-recommender-system/raw/main/images/Books-users.png)
 
 ## Technologies Used
 - Python
