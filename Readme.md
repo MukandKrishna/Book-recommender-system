@@ -60,6 +60,3 @@ It then is represented as a bipartite graph, where nodes represent users and ite
 - **Collaborative Filtering**: Recommend books for user ID 1234.
 - **NCF**: Recommend using neural collaborative filtering books for user ID 5678.
 - **GNN**: Recommend ISBNs using neural collaborative filtering books for user ID 10.
-
-## Contributors
-- [Mukand Krishna](https://github.com/MukandKrishna) [Faris Asif](https://github.com/farisasif7) [Insia Farhan](https://github.com/K200265-Insia-Farhan)
